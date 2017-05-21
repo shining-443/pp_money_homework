@@ -1,0 +1,93 @@
+@charset "utf-8";
+.main_page {
+	padding: 0px;
+	height: auto;
+	width: 1024px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.main_top_frame {
+	background-color: #09F;
+	height: 60px;
+	width: 1024px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-align: center;
+	font-size: 36px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main_content_frame {
+	background-color: #FFF;
+	height: 520px;
+	width: 1024px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+.content_left {
+	background-color: #FFF;
+	height: auto;
+	width: 500px;
+	float: left;
+}
+.content_right {
+	background-color: #FFF;
+	height: auto;
+	width: 500px;
+	float: right;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+.main_page .main_content_frame .content_left #form1 table tr td {
+	text-align: left;
+	color: #000;
+}
+.main_page .main_content_frame .content_right #form2 p {
+	font-size: 18px;
+}
+.main_page .main_content_frame .content_right #form2 p {
+	font-size: 16px;
+
+}
+.main_page .main_content_frame .content_right #form2 p {
+	font-size: 16px;
+}
+.main_page .main_content_frame .content_right #form2 p1 {
+	font-size: 16px;
+}
+.main_page .main_content_frame .content_right #form2 table tr td {
+	text-align: center;
+}
+.main_botten_frame {
+	background-color: #09F;
+	height: 50px;
+	width: 1024px;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.main_page .main_botten_frame p {
+	font-size: 14px;
+	color: #FFF;
+	text-align: center;
+}
+.main_page .main_top_frame {
+	color: #FFF;
+}
